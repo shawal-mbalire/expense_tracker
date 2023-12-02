@@ -43,9 +43,10 @@ To set up and run the Expense Tracker application, follow these steps:
 Clone the project repository:
 ```bash
 git clone https://github.com/shawal-mbalire/expense_tracker
+```
 
 Create a virtual environment and install dependencies:
-```
+
 ```bash
 cd expense_tracker
 python3 -m venv venv
